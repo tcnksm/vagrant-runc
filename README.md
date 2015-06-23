@@ -1,6 +1,4 @@
-# Vagrant runC
-
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)][license]
+# Vagrant runC [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)][license]
 
 [license]: https://github.com/tcnksm/vagrant-runc/blob/master/LICENSE
 
