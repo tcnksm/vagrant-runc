@@ -15,6 +15,8 @@ sudo apt-get install --no-install-recommends -y -q \
                      build-essential \
                      ca-certificates \
                      git mercurial bzr \
+                     libseccomp2 \
+                     libseccomp-dev
 
 GOVERSION=1.4.2
 echo "Install Go v${GOVERSION}"
